@@ -10,7 +10,6 @@ body {
     align-items: center;
     height: 100vh;
     width: 100%;
-    background: #9fffff;
 }
 
 canvas#gameboard {
