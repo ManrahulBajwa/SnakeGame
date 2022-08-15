@@ -14,7 +14,6 @@ body {
 
 canvas#gameboard {
     box-shadow: 12px 14px 54px #000000bd;
-    /* border-radius: 4px; */
     background: black;
 }
 span.score-text {
